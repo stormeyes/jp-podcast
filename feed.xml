@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel><title>多邻国日语单词</title><link>https://stormeyes.github.io/jp-podcast/</link><language>ja</language>
+<description>多邻国日语各单元单词：日语一遍 + 中文意思</description>
+<itunes:author>me</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
+<itunes:image href="https://stormeyes.github.io/jp-podcast/cover.png"/>
+<item><title>第13单元单词</title><guid isPermaLink="false">jp-u13-1791767155</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u13.m4a" length="425312" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:13:00 +0000</pubDate><itunes:duration>102</itunes:duration><itunes:episode>13</itunes:episode></item>
+<item><title>第12单元单词</title><guid isPermaLink="false">jp-u12-1791767139</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u12.m4a" length="431882" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:12:00 +0000</pubDate><itunes:duration>105</itunes:duration><itunes:episode>12</itunes:episode></item>
+<item><title>第11单元单词</title><guid isPermaLink="false">jp-u11-1791767124</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u11.m4a" length="394116" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:11:00 +0000</pubDate><itunes:duration>95</itunes:duration><itunes:episode>11</itunes:episode></item>
+</channel></rss>
