@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel><title>多邻国日语单词</title><link>https://stormeyes.github.io/jp-podcast/</link><language>ja</language>
 <description>多邻国日语各单元单词：日语一遍 + 中文意思</description>
-<itunes:author>me</itunes:author><itunes:explicit>false</itunes:explicit><itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
+<itunes:author>stormeyes</itunes:author><itunes:owner><itunes:name>stormeyes</itunes:name></itunes:owner><itunes:type>episodic</itunes:type><itunes:explicit>false</itunes:explicit><itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
 <itunes:image href="https://stormeyes.github.io/jp-podcast/cover.png"/>
 <item><title>第40单元单词</title><guid isPermaLink="false">jp-u40-1792480016</guid>
 <enclosure url="https://stormeyes.github.io/jp-podcast/u40.m4a" length="435231" type="audio/x-m4a"/>

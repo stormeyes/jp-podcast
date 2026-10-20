@@ -21,13 +21,15 @@ for f in sorted(SRC.glob("第*单元单词.m4a"), key=lambda p: int(re.search(r"
 <enclosure url="{BASE}/{dst.name}" length="{dst.stat().st_size}" type="audio/x-m4a"/>
 <pubDate>{date}</pubDate><itunes:duration>{round(dur)}</itunes:duration><itunes:episode>{n}</itunes:episode><description>第{n}单元单词</description></item>""")
 
-(here / "feed.xml").write_text(f"""<?xml version="1.0" encoding="UTF-8"?>
+feed = (f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel><title>多邻国日语单词</title><link>{BASE}/</link><language>ja</language>
 <description>{escape("多邻国日语各单元单词：日语一遍 + 中文意思")}</description>
-<itunes:author>me</itunes:author><itunes:explicit>false</itunes:explicit><itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
+<itunes:author>stormeyes</itunes:author><itunes:owner><itunes:name>stormeyes</itunes:name></itunes:owner><itunes:type>episodic</itunes:type><itunes:explicit>false</itunes:explicit><itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
 <itunes:image href="{BASE}/cover.png"/>
 {chr(10).join(reversed(items))}
 </channel></rss>
-""", encoding="utf-8")
+""")
+for name in ("feed.xml", "podcast.xml"):
+    (here / name).write_text(feed, encoding="utf-8")
 print(f"{len(items)} episodes -> feed.xml")
