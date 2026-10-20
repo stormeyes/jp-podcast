@@ -2,15 +2,96 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel><title>多邻国日语单词</title><link>https://stormeyes.github.io/jp-podcast/</link><language>ja</language>
 <description>多邻国日语各单元单词：日语一遍 + 中文意思</description>
-<itunes:author>me</itunes:author><itunes:explicit>false</itunes:explicit><itunes:block>Yes</itunes:block>
+<itunes:author>me</itunes:author><itunes:explicit>false</itunes:explicit><itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
 <itunes:image href="https://stormeyes.github.io/jp-podcast/cover.png"/>
+<item><title>第40单元单词</title><guid isPermaLink="false">jp-u40-1792480016</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u40.m4a" length="435231" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:40:00 +0000</pubDate><itunes:duration>108</itunes:duration><itunes:episode>40</itunes:episode><description>第40单元单词</description></item>
+<item><title>第39单元单词</title><guid isPermaLink="false">jp-u39-1792480016</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u39.m4a" length="498858" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:39:00 +0000</pubDate><itunes:duration>116</itunes:duration><itunes:episode>39</itunes:episode><description>第39单元单词</description></item>
+<item><title>第38单元单词</title><guid isPermaLink="false">jp-u38-1792480016</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u38.m4a" length="546631" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:38:00 +0000</pubDate><itunes:duration>122</itunes:duration><itunes:episode>38</itunes:episode><description>第38单元单词</description></item>
+<item><title>第37单元单词</title><guid isPermaLink="false">jp-u37-1792480000</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u37.m4a" length="445948" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:37:00 +0000</pubDate><itunes:duration>101</itunes:duration><itunes:episode>37</itunes:episode><description>第37单元单词</description></item>
+<item><title>第36单元单词</title><guid isPermaLink="false">jp-u36-1792480040</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u36.m4a" length="396981" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:36:00 +0000</pubDate><itunes:duration>92</itunes:duration><itunes:episode>36</itunes:episode><description>第36单元单词</description></item>
+<item><title>第35单元单词</title><guid isPermaLink="false">jp-u35-1792479987</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u35.m4a" length="396537" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:35:00 +0000</pubDate><itunes:duration>91</itunes:duration><itunes:episode>35</itunes:episode><description>第35单元单词</description></item>
+<item><title>第34单元单词</title><guid isPermaLink="false">jp-u34-1792479998</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u34.m4a" length="607461" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:34:00 +0000</pubDate><itunes:duration>129</itunes:duration><itunes:episode>34</itunes:episode><description>第34单元单词</description></item>
+<item><title>第33单元单词</title><guid isPermaLink="false">jp-u33-1792479988</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u33.m4a" length="553576" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:33:00 +0000</pubDate><itunes:duration>116</itunes:duration><itunes:episode>33</itunes:episode><description>第33单元单词</description></item>
+<item><title>第32单元单词</title><guid isPermaLink="false">jp-u32-1792480039</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u32.m4a" length="464049" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:32:00 +0000</pubDate><itunes:duration>110</itunes:duration><itunes:episode>32</itunes:episode><description>第32单元单词</description></item>
+<item><title>第31单元单词</title><guid isPermaLink="false">jp-u31-1792479964</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u31.m4a" length="519784" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:31:00 +0000</pubDate><itunes:duration>117</itunes:duration><itunes:episode>31</itunes:episode><description>第31单元单词</description></item>
+<item><title>第30单元单词</title><guid isPermaLink="false">jp-u30-1792479955</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u30.m4a" length="427808" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:30:00 +0000</pubDate><itunes:duration>93</itunes:duration><itunes:episode>30</itunes:episode><description>第30单元单词</description></item>
+<item><title>第29单元单词</title><guid isPermaLink="false">jp-u29-1792479966</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u29.m4a" length="457467" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:29:00 +0000</pubDate><itunes:duration>113</itunes:duration><itunes:episode>29</itunes:episode><description>第29单元单词</description></item>
+<item><title>第28单元单词</title><guid isPermaLink="false">jp-u28-1792479946</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u28.m4a" length="366182" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:28:00 +0000</pubDate><itunes:duration>89</itunes:duration><itunes:episode>28</itunes:episode><description>第28单元单词</description></item>
+<item><title>第27单元单词</title><guid isPermaLink="false">jp-u27-1792479951</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u27.m4a" length="444870" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:27:00 +0000</pubDate><itunes:duration>101</itunes:duration><itunes:episode>27</itunes:episode><description>第27单元单词</description></item>
+<item><title>第26单元单词</title><guid isPermaLink="false">jp-u26-1792480038</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u26.m4a" length="445625" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:26:00 +0000</pubDate><itunes:duration>106</itunes:duration><itunes:episode>26</itunes:episode><description>第26单元单词</description></item>
+<item><title>第25单元单词</title><guid isPermaLink="false">jp-u25-1792479924</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u25.m4a" length="457588" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:25:00 +0000</pubDate><itunes:duration>106</itunes:duration><itunes:episode>25</itunes:episode><description>第25单元单词</description></item>
+<item><title>第24单元单词</title><guid isPermaLink="false">jp-u24-1792479926</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u24.m4a" length="516945" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:24:00 +0000</pubDate><itunes:duration>118</itunes:duration><itunes:episode>24</itunes:episode><description>第24单元单词</description></item>
+<item><title>第23单元单词</title><guid isPermaLink="false">jp-u23-1792479927</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u23.m4a" length="528349" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:23:00 +0000</pubDate><itunes:duration>129</itunes:duration><itunes:episode>23</itunes:episode><description>第23单元单词</description></item>
+<item><title>第22单元单词</title><guid isPermaLink="false">jp-u22-1792479917</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u22.m4a" length="476139" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:22:00 +0000</pubDate><itunes:duration>108</itunes:duration><itunes:episode>22</itunes:episode><description>第22单元单词</description></item>
+<item><title>第21单元单词</title><guid isPermaLink="false">jp-u21-1792480037</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u21.m4a" length="423939" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:21:00 +0000</pubDate><itunes:duration>101</itunes:duration><itunes:episode>21</itunes:episode><description>第21单元单词</description></item>
+<item><title>第20单元单词</title><guid isPermaLink="false">jp-u20-1792479913</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u20.m4a" length="438539" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:20:00 +0000</pubDate><itunes:duration>105</itunes:duration><itunes:episode>20</itunes:episode><description>第20单元单词</description></item>
+<item><title>第19单元单词</title><guid isPermaLink="false">jp-u19-1792479883</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u19.m4a" length="386700" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:19:00 +0000</pubDate><itunes:duration>97</itunes:duration><itunes:episode>19</itunes:episode><description>第19单元单词</description></item>
+<item><title>第18单元单词</title><guid isPermaLink="false">jp-u18-1792479876</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u18.m4a" length="355738" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:18:00 +0000</pubDate><itunes:duration>83</itunes:duration><itunes:episode>18</itunes:episode><description>第18单元单词</description></item>
+<item><title>第17单元单词</title><guid isPermaLink="false">jp-u17-1792479882</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u17.m4a" length="432208" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:17:00 +0000</pubDate><itunes:duration>100</itunes:duration><itunes:episode>17</itunes:episode><description>第17单元单词</description></item>
+<item><title>第16单元单词</title><guid isPermaLink="false">jp-u16-1792479883</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u16.m4a" length="457938" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:16:00 +0000</pubDate><itunes:duration>109</itunes:duration><itunes:episode>16</itunes:episode><description>第16单元单词</description></item>
+<item><title>第15单元单词</title><guid isPermaLink="false">jp-u15-1792479885</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u15.m4a" length="479811" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:15:00 +0000</pubDate><itunes:duration>112</itunes:duration><itunes:episode>15</itunes:episode><description>第15单元单词</description></item>
+<item><title>第14单元单词</title><guid isPermaLink="false">jp-u14-1792480036</guid>
+<enclosure url="https://stormeyes.github.io/jp-podcast/u14.m4a" length="462397" type="audio/x-m4a"/>
+<pubDate>Thu, 01 Jan 2026 00:14:00 +0000</pubDate><itunes:duration>118</itunes:duration><itunes:episode>14</itunes:episode><description>第14单元单词</description></item>
 <item><title>第13单元单词</title><guid isPermaLink="false">jp-u13-1791767155</guid>
 <enclosure url="https://stormeyes.github.io/jp-podcast/u13.m4a" length="425312" type="audio/x-m4a"/>
-<pubDate>Thu, 01 Jan 2026 00:13:00 +0000</pubDate><itunes:duration>102</itunes:duration><itunes:episode>13</itunes:episode></item>
+<pubDate>Thu, 01 Jan 2026 00:13:00 +0000</pubDate><itunes:duration>102</itunes:duration><itunes:episode>13</itunes:episode><description>第13单元单词</description></item>
 <item><title>第12单元单词</title><guid isPermaLink="false">jp-u12-1791767139</guid>
 <enclosure url="https://stormeyes.github.io/jp-podcast/u12.m4a" length="431882" type="audio/x-m4a"/>
-<pubDate>Thu, 01 Jan 2026 00:12:00 +0000</pubDate><itunes:duration>105</itunes:duration><itunes:episode>12</itunes:episode></item>
+<pubDate>Thu, 01 Jan 2026 00:12:00 +0000</pubDate><itunes:duration>105</itunes:duration><itunes:episode>12</itunes:episode><description>第12单元单词</description></item>
 <item><title>第11单元单词</title><guid isPermaLink="false">jp-u11-1791767124</guid>
 <enclosure url="https://stormeyes.github.io/jp-podcast/u11.m4a" length="394116" type="audio/x-m4a"/>
-<pubDate>Thu, 01 Jan 2026 00:11:00 +0000</pubDate><itunes:duration>95</itunes:duration><itunes:episode>11</itunes:episode></item>
+<pubDate>Thu, 01 Jan 2026 00:11:00 +0000</pubDate><itunes:duration>95</itunes:duration><itunes:episode>11</itunes:episode><description>第11单元单词</description></item>
 </channel></rss>
